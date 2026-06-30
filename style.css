@@ -1,10 +1,11 @@
-.name{
-    background-color: gray ;
+p{
+    background-color: yellowgreen;
+
+    
 }
-#link{
-    background-color: maroon;
+a{
+    background-color: grey;
 }
-#span1{
-    background-color: gray;
-    color: rebeccapurple;
+span{
+    background-color: burlywood;
 }
