@@ -1,0 +1,14 @@
+.para{
+    background-color: red;
+}
+#man{
+    color: blue;
+}
+#women{
+    background-color: grey;
+    
+}
+div > article:hover{
+    background-color: pink;
+}
+
