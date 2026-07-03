@@ -1,0 +1,10 @@
+div p:first-child{
+            background-color: yellow;
+            color: red;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
+        p{
+            background-color: blue;
+            color: white;
+            font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        }
