@@ -1,0 +1,16 @@
+
+.box{
+    border: black 3px solid;
+    margin: 5px auto ;
+    
+    
+}
+.box1{
+    border: black 3px solid;
+    margin: 5px auto;
+}
+.container{
+    border: black 3px solid;
+    display: block;
+    width: 56vmax;
+}
