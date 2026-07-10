@@ -1,0 +1,29 @@
+.card {
+    margin: 45px;
+  width: 300px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px; /* Thoda curvy corners ke liye */
+  
+  /* Yahan hai main Box Shadow ka khel */
+  box-shadow: 31px 56px 40px 13px rgba(0, 0, 0, 0.15);
+}
+.box{
+    margin: 45px;
+  width: 300px;
+  padding: 20px;
+  background-color: white;
+  border-radius: 12px; /* Thoda curvy corners ke liye */
+  
+  /* Yahan hai main Box Shadow ka khel */
+  box-shadow: -31px -56px 19px 13px black ;
+}
+.text{
+    text-shadow:-6px 13px 13px green ;
+}
+button{
+    border: 3px solid black;
+    border-radius: 6px  ;
+    outline: 5px solid green;
+    outline-offset: 6px;
+}
