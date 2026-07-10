@@ -1,0 +1,28 @@
+div{
+    padding: 3vw;
+    width: 13vw;
+    height: 45vw;
+    border: 3px solid #000000;
+    overflow: scroll;
+   
+    
+}
+.box{
+    padding: 3vw;
+    width: 13vw;
+    height: 45vw;
+    border: 3px solid black;
+    overflow: auto;
+    
+
+}
+.text{
+    padding: 3vw;
+    margin: 9vw;
+    width: 19vw;
+    height: 5vw;
+    border: 3px solid black;
+    overflow-x:scroll;
+    
+    
+}
